@@ -1,4 +1,4 @@
-# <div align="center">I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
+# <div align="center">I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif"/>
@@ -8,9 +8,9 @@
 
 ### :man: About Me:
 ```
-I am 22 years old python developer 💻.
-I have been working as a freelancer 👨‍💻 for more than 3 years and also I have been teaching 👨‍🏫 programming for more than a year.
-I worked in the field of Back-End, web scraping, making social robots(whatsapp,telegram,instagram)...
+I am 24 years old Python developer 💻.
+I have been working as a freelancer 👨‍💻 for more than 5 years and also I have been teaching 👨‍🏫 programming for more than 2 years.
+I worked in the field of Back-End, web scraping, creating social robots(Whatsapp, Telegram, Instagram)...
 I also have a fairly good knowledge of network security🔐
 ```
 
